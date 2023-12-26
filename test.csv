@@ -1,0 +1,108 @@
+PID	Name	Description	Category	Quantity	Price	Availability
+101	potato	vegetable	fruits and vegetables	1kg	rs29	yes
+102	tomato	vegetable	fruits and vegetables	1kg	rs18	yes
+103	capsicum	vegetable	fruits and vegetables	1kg	rs36	yes
+104	lady finger	vegetable	fruits and vegetables	1kg	rs13	yes
+105	onion 	vegetable	fruits and vegetables	1kg	rs67	yes
+106	apple 	fruit	fruits and vegetables	1kg	rs66	yes
+107	pomegranate	fruit	fruits and vegetables	1kg	rs169	yes
+108	sweet lime	fruit	fruits and vegetables	1kg	rs33	yes
+109	raw mango 	fruit	fruits and vegetables	1kg	rs37	yes
+110	sun melon	fruit	fruits and vegetables	1kg	rs72	yes
+						
+			"2.Flour, Rice and Pulses"			
+PID	Name	Description	Category	Quantity	Price	Availability
+201	aashirvad shudh chakki whole wheat atta	flour	"Flour, Rice and Pulses"	5kg	rs223	yes
+202	whole farm chakki atta	flour	"Flour, Rice and Pulses"	5kg	rs290	yes
+203	patanjali whole wheat chakki atta	flour	"Flour, Rice and Pulses"	5kg	rs214	yes
+204	india gate everyday basmati rice	rice	"Flour, Rice and Pulses"	5kg	rs359	yes
+205	dawat rozana super basmati rice	rice	"Flour, Rice and Pulses"	5kg	rs360	yes
+206	basic arhar dal/toor dal	pulses	"Flour, Rice and Pulses"	1kg	rs180	yes
+207	basic chana dal	pulses	"Flour, Rice and Pulses"	1kg	rs94	yes
+208	whole farm urad dal	pulses	"Flour, Rice and Pulses"	1kg	rs148	yes
+						
+			3.Beverages			
+PID	Name	Description	Category	Quantity	Price	Availability
+301	coca cola	soft drinks 	beverages	750ml	rs40	yes
+302	limca	soft drinks 	beverages	750ml	rs40	yes
+303	sprite 	soft drinks 	beverages	750ml	rs40	yes
+304	paper boat (orange)	juices	beverages	1l	rs108	yes
+305	real juice 	juices	beverages	1l	rs120	yes
+306	fresca 	juices	beverages	1l	rs48	yes
+307	tropicana 	juices	beverages	1l 	rs99	yes
+308	appy	juices	beverages	125ml	rs10	yes
+						
+			4.Spices and oil 			
+PID	Name	Description	Category	Quantity	Price	Availability
+401	catch coriander	spices	Spices and oil 	200g	rs56	yes
+402	catch turmeric	spices	Spices and oil 	100g	rs32	yes
+403	everest tikhalal red chilli powder	spices	Spices and oil 	100g	rs68	yes
+404	catch hing power 	spices	Spices and oil 	25g	rs65	yes
+405	saffola active pto edible oil	oil	Spices and oil 	5l	rs550	yes
+406	fortune soyabean oil	oil	Spices and oil 	1l	rs111	yes
+407	pansari kachi ghani mustard oil	oil	Spices and oil 	1l	rs122	yes
+408	fortune refined sunflower oil	oil	Spices and oil 	2l	rs251	yes
+						
+			5.Snacks			
+PID	Name	Description	Category	Quantity	Price	Availability
+501	Lays 	chips	snacks	40g	rs19	yes
+502	act butter popcorn	popcorn	snacks	50g	rs25	yes
+503	mccain smiles	crispy smiles	snacks	415g	rs135	yes
+504	haldiram sback lite	chips	snacks	85g	rs25	yes
+505	chicken momos (frozen)	momos	snacks	24 pieces	rs286	yes
+506	kerela banana chips 	chips 	snacks	75g	rs57	yes
+507	Makhana 	chips 	snacks	75g	rs122	yes
+508	sabudana tikki 	tikki	snacks	320g	rs150	yes
+						
+			6.Sweets			
+PID	Name	Description	Category	Quantity	Price	Availability
+601	rasgulla	sweets	sweets	1kg	rs202	yes
+602	dodha burfi	sweets	sweets	500g	rs290	yes
+603	soan papdi	sweets	sweets	200g	rs76	yes
+604	kaju katli	sweets	sweets	500g	rs594	yes
+605	gulab jamun	sweets	sweets	1kg	rs202	yes
+606	motichoor laddo 	sweets	sweets	200g	rs95	yes
+607	besan laddu 	sweets	sweets	400g	rs129	yes
+						
+			7.Bakery			
+PID	Name	Description	Category	Quantity	Price	Availability
+701	hide and seek 	biscuits	bakery	250g	rs88	yes
+702	chocolate cake 	dry cake	bakery	198g	rs114	yes
+703	good day 	biscuits	bakery	200g	rs43	yes
+704	english oven rusk	rusk	bakery	410g	rs75	yes
+705	pineapple waffers	waffers	bakery	60g	rs29	yes
+706	parle marie biscuits	biscuits	bakery	250g	rs40	yes
+707	nutri choice	biscuits	bakery	75g 	rs23	yes
+						
+			"8.Dairy , eggs and breads"			
+PID	Name	Description	Category	Quantity	Price	Availability
+801	amul gold full cream milk	milk	"Dairy , eggs and breads"	500ml	rs33	yes
+802	amul taaza toned milk 	milk	"Dairy , eggs and breads"	500ml 	rs27	yes
+803	mother dairy toned fresh milk 	milk	"Dairy , eggs and breads"	500ml	rs27	yes
+804	mother dairy cow  fresh milk 	milk	"Dairy , eggs and breads"	500ml	rs28	yes
+805	hen fruit farm eggs	egg	"Dairy , eggs and breads"	30 pieces	rs314	yes
+806	eggoz farm fresh egg	eggs	"Dairy , eggs and breads"	10 pieces	rs142	yes
+807	englidh oven white bread	bread	"Dairy , eggs and breads"	700g	rs55	yes
+808	harvest gold brown bread	bread	"Dairy , eggs and breads"	350g	rs28	yes
+809	harvest atta bread	bread	"Dairy , eggs and breads"	450g	rs55	yes
+						
+			9.Cleaning Essentials			
+PID	Name	Description	Category	Quantity	Price	Availability
+901	surf excel 	liquid detergents	Cleaning Essentials	3.2l	rs552	yes
+902	comfort after wash fabric conditioner	laundry additives 	Cleaning Essentials	430ml	rs120	yes
+903	lizol	floor cleanser	Cleaning Essentials	2l	rs369	yes
+904	harpic 	toilet cleanser	Cleaning Essentials	1l	rs194	yes
+905	odonil gel pocket	freshners	Cleaning Essentials	10g	rs49	yes
+906	tide	detergent powder	Cleaning Essentials	1kg	rs68	yes
+907	gala wiper	cleansing tools 	Cleaning Essentials	1 unit	rs240	yes
+						
+			10.Personal care			
+PID	Name	Description	Category	Quantity	Price	Availability
+1000	park avenue luxury soap	bathing soap	Personal care	125g	rs47	yes
+1001	dove soap 	bathing soap	Personal care	125g	rs78	yes
+1002	loreal paris total repair 5 condotioner	shampoo & conditioner	Personal care	180ml	rs181	yes
+1003	tresemme keratin smooth shapoo	shampoo & conditioner	Personal care	180ml	rs190	yes
+1004	detttol handwashrefil 	handwash	Personal care	675ml	rs94	yes
+1005	santoor mild handwash 	handwash	Personal care	700ml	rs90	yes
+1006	colgate strong teeth anticavity toothpaste	toothpaste	Personal care	150g	rs92	yes
+1007	colgate maxfresh mouth freshner	mouth freshner	Personal care	250ml	rs108	yes
